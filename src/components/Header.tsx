@@ -1,6 +1,6 @@
 import { Github, Mail, Send, Twitter } from 'lucide-react'
 import SocialLink from './SocialLink'
-import ShortcutHint from './ShortcutHint'
+// import ShortcutHint from './ShortcutHint'
 import ThemeToggle from './ThemeToggle'
 
 export default function Header() {
